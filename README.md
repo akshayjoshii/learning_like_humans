@@ -5,4 +5,6 @@ Knowledge and Data together form the foundation of most AI systems: Symbolic or 
 While there are often connections between them, they both have their own techniques for learning and adapting models, and this is done mostly separately today. Considering recent advances in deep learning, researchers are now reviewing existing and developing new methods for hybrid learning. where knowledge and data are used in conjunction to train inter-linked models that offer both the predictive strength and efficiency of data-based models, as well as the structure and transparency of knowledge-based models.
 
 
-<iframe src="https://slides.com/akshayjoshi/deck/embed" width="1280" height="720" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+## Presentation Slideshow 
+This is an automated presentation with 5 second interval. Click on the content for full control over the slides.
+[![Presentation](img/Learning_like_humans.gif)](https://slides.com/akshayjoshi/deck/fullscreen)
